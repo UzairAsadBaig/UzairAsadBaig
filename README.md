@@ -22,6 +22,7 @@
 <a href="#" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
 <img src="https://komarev.com/ghpvc/?username=Uzair&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" />
 
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
 <!-- Skillset Icons -->
   
