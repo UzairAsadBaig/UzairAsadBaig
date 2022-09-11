@@ -57,7 +57,7 @@
 <!-- Github Statistics Cards -->
 
 
-(https://github-readme-stats.vercel.app/api?username=UzairAsadBaig&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@UzairAsadBaig-Github-stats)
+  ![UzairAsadBaig GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairAsadBaig&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@UzairAsadBaig-Github-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAsadBaig&theme=react&custom_title=Most-Used-Languages)](https://github.com/Uzair/github-readme-stats) 
