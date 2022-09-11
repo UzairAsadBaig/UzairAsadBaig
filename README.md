@@ -1,5 +1,4 @@
 
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <h1 align="center">Hi 👋,  <a href="https://www.devfum.com/uzair/" target="blank">Muhammad Uzair Baig</a> here...</h1> 
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>  
   
@@ -56,6 +55,7 @@
 </div>
 
 
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="100"/></p>
 
 <!-- Github Statistics Cards -->
 
