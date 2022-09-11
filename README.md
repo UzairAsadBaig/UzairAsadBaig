@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>  
   
   
+
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  
 <!-- Social Media Handles -->
 
 <h3 align="left">Connect with me:</h3>  
@@ -21,8 +24,6 @@
 <a href="#">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <a href="#" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
 <img src="https://komarev.com/ghpvc/?username=Uzair&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" />
-
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
 <!-- Skillset Icons -->
   
