@@ -23,11 +23,11 @@
 <a href="#">![LinkedIn: hashprog](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="#">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 <a href="#" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
-<img src="https://komarev.com/ghpvc/?username=Uzair&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" />
+<img src="https://komarev.com/ghpvc/?username=UzairAsadBaig&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" />
   
 <!-- Skillset Icons -->
   
-<!-- ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=Uzair) -->
+<!-- ![alt text](https://github-readme-streak-stats.herokuapp.com/?user=UzairAsadBaig) -->
   
 </p>
   
