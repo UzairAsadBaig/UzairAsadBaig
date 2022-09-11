@@ -60,7 +60,7 @@
   ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzair&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@Uzair-Github-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair&theme=react&custom_title=Most-Used-Languages)](https://github.com/Uzair/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAsadBaig&theme=react&custom_title=Most-Used-Languages)](https://github.com/Uzair/github-readme-stats) 
 
 
 <!-- OS, Language, Website Banners -->
@@ -68,22 +68,6 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://harshsoni.me/Portfolio2022/">
    <img align="center" src="https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
 </a>
-<!-- ![](https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue) -->
-
-<!--
-<a href="https://github.com/Uzair/todo-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uzair&repo=todo-app&theme=react&show_owner=true&border_radius=10" />
-</a>
-<a href="https://github.com/Uzair/FlaskMarket">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uzair&repo=FlaskMarket&theme=highcontrast&show_owner=true&border_radius=10" />
-</a>
-<a href="https://github.com/Uzair/GALAXY-game">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uzair&repo=GALAXY-game&theme=radical&show_owner=true" />
-</a>
-<a href="https://github.com/Uzair/DSApython">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uzair&repo=DSApython&theme=github_dark&show_owner=true&border_radius=10" />
-</a>
--->
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UzairAsadBaig&theme=dark&background=000000)](https://git.io/streak-stats)
