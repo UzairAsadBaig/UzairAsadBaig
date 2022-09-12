@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>  
   
   
+  <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  
 
   
 <!-- Social Media Handles -->
@@ -55,7 +57,6 @@
 </div>
 
 
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="40%"/></p>
 
 <!-- Github Statistics Cards -->
 
