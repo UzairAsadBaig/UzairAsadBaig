@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>  
   
   
-  <center><p><img  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p></center>
+  <p align="center" ><img width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
 
   
