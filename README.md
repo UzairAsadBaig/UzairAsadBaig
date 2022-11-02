@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
 <h1 align="center">Hi 👋,  <a href="https://www.devfum.com/uzair/" target="blank">Muhammad Uzair Baig</a> here...</h1> 
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>  
+<h3 align="center">A passionate Software Engineer from Pakistan</h3> <br> 
   
   <img align="right" width="400px"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
