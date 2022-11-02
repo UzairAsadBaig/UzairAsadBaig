@@ -1,10 +1,18 @@
-
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif">
 <h1 align="center">Hi 👋,  <a href="https://www.devfum.com/uzair/" target="blank">Muhammad Uzair Baig</a> here...</h1> 
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>  
   
-  
-  <p align="center" ><img width="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-  
+  <img align="right" width="400px"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+## 🧐 About Me
+I am a solutions-focused and goal-oriented software engineer with experience in application layers, presentation
+layers, and databases. Certified in both front-end and back-end technologies. Passionate about finding simple
+and efficient solutions to complex problems. Demonstrates strong analytical and problem-solving skills and the
+ability to follow through with projects from inception to completion.
+
+<br>
+<br>
+<br>
 
   
 <!-- Social Media Handles -->
@@ -59,31 +67,16 @@
 
 
 
+<br>
+<h3 align="left">Github Stats and trophies 🏆 </h3>
+<br>
 
-<!-- Github Statistics Cards -->
+| [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=UzairAsadBaig&theme=blueberry)](https://github-readme-streak-stats.herokuapp.com/?user=UzairAsadBaig) | [![streak](https://github-profile-trophy.vercel.app/?username=UzairAsadBaig&theme=blueberry&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=UzairAsadBaig) | 
+------------ | -------------
+[![stats](https://github-readme-stats.vercel.app/api/top-langs?username=UzairAsadBaig&show_icons=true&locale=en&layout=compact&theme=blueberry)](https://github-readme-stats.vercel.app/api/top-langs?username=UzairAsadBaig) | [![stats](https://github-readme-stats.vercel.app/api?username=UzairAsadBaig&count_private=true&show_icons=true&locale=en&theme=blueberry)](https://github-readme-stats.vercel.app/api?username=UzairAsadBaig&count_private=true)
 
-
-  ![UzairAsadBaig GitHub stats](https://github-readme-stats.vercel.app/api?username=UzairAsadBaig&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@UzairAsadBaig-Github-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAsadBaig&theme=react&custom_title=Most-Used-Languages)](https://github.com/Uzair/github-readme-stats) 
-
-
-<!-- OS, Language, Website Banners -->
-
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://harshsoni.me/Portfolio2022/">
-   <img align="center" src="https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
-</a>
+[![UzairAsadBaig's github activity graph](https://activity-graph.herokuapp.com/graph?username=UzairAsadBaig&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=UzairAsadBaig&theme=react-dark&count_private=true)
+<br>
+[![UzairAsadBaig's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzairAsadBaig&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzairAsadBaig&theme=vue)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UzairAsadBaig&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Uzair github activity graph](https://activity-graph.herokuapp.com/graph?username=UzairAsadBaig&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=UzairAsadBaig&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UzairAsadBaig&label=Profile%20views&color=0e75b6&style=flat" alt="Uzair" /> </p> 
-
-
-------
