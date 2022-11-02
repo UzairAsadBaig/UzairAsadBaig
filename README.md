@@ -6,7 +6,7 @@
 
 ## 🧐 About Me
 I am a solutions-focused and goal-oriented software engineer with experience in application layers, presentation
-layers, and databases. Certified in both front-end and back-end technologies. Passionate about finding simple
+layers, and databases. Certified in both front-end and back-end technologies. <br>Passionate about finding simple
 and efficient solutions to complex problems. Demonstrates strong analytical and problem-solving skills and the
 ability to follow through with projects from inception to completion.
 
